@@ -1,0 +1,4 @@
+1001|S|Atta Ur Rehman|25000
+1002|C|Sohair|10000
+1003|C|Sohair|10000
+1004|C|Sohair|10000
